@@ -1,0 +1,31 @@
+body {
+    color: white;
+  }
+  
+  .red-background {
+    background-color:  red;
+  }
+  
+  .orange-background {
+    background-color:  orange;
+  }
+  
+  .yellow-background {
+    background-color:  yellow;
+  }
+  
+  .green-background {
+    background-color:  green;
+  }
+  
+  .blue-background {
+    background-color:  blue;
+  }
+  
+  .indigo-background {
+    background-color:  indigo;
+  }
+  
+  .violet-background {
+    background-color:  violet;
+  }
